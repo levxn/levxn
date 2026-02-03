@@ -6,10 +6,15 @@ I'm **levxn**! Welcome to my GitHub profile.
 
 ---
 
+### Summary
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=levxn)](https://github.com/LordDashMe/github-contribution-stats/)
+
+---
+
 ### 📊 GitHub Stats
 
-<!--START_SECTION:stats-->
-<!--END_SECTION:stats-->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=levxn&theme=dark)](https://git.io/streak-stats)
 
 ---
 
