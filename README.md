@@ -40,7 +40,6 @@ I work at the intersection of <b>AI, systems, and product engineering</b>, focus
 <p>
 <a href="https://linkedin.com/in/levinms"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://discord.com/users/894438515792826428"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-<a href="https://github.com/levxn"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="mailto:mslevin.active@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 </div>
@@ -50,14 +49,6 @@ I work at the intersection of <b>AI, systems, and product engineering</b>, focus
 </table>
 
 Thanks for stopping by. If something here resonates, feel free to reach out.
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=levxn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=levxn&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=levxn&theme=dark)
-
-</div>
 
 ---
 
