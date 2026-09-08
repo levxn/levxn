@@ -7,26 +7,15 @@
 <img src="https://komarev.com/ghpvc/?username=levxn&color=blueviolet" alt="Visitor Count">
 </p>
 <p>
-Product-driven software engineer building <b>AI-first systems</b> that scale from idea to production.<br>
-I work at the intersection of <b>AI, systems, and product engineering</b>, focusing on building things that are:
+<b>AI inference and performance engineering</b> - building systems where models run efficiently, reliably, and at scale.
 </p>
-<ul>
-<li>useful in the real world</li>
-<li>scalable and maintainable</li>
-<li>thoughtfully designed, not over-engineered</li>
-</ul>
-<p>I enjoy shipping fast, iterating in the open, and learning by building.</p>
-
-<h3>What I Work On</h3>
-<ul>
-<li>AI-first product engineering [LangChain, LangGraph, Vector DBs (Pinecone, ChromaDB, Turbopuffer)]</li>
-<li>AI Research and Development [Tensorflow, PyTorch]</li>
-<li>Backend-heavy systems and APIs [Python, Java, Node.js,PostgreSQL, MongoDB, Supabase]</li>
-<li>Scalable architectures and system design [distributed systems, AWS]</li>
-<li>Developer tooling and internal platforms [CLI tools, CI/CD, Docker]</li>
-<li>Observability and monitoring [Prometheus, Grafana, ELK Stack, Newrelic, Catchpoint]</li>
-<li>Prototyping → hardening → productionizing ideas [MVP, testing, observability]</li>
-</ul>
+<p>
+My work spans the full inference stack which includes Profiling bottlenecks, Optimizing serving paths, and Hardening pipelines for production load.
+I look into the measurable gains like latency, throughput, and correctness under real constraints.
+</p>
+<p>
+Earlier in my career I led product and platform engineering - designing services end to end and shipping complex systems from early prototype to stable deployment.
+</p>
 
 </td>
 <td valign="top" width="40%">
@@ -48,7 +37,7 @@ I work at the intersection of <b>AI, systems, and product engineering</b>, focus
 </tr>
 </table>
 
-Thanks for stopping by. If something here resonates, feel free to reach out.
+If something here resonates, feel free to reach out.
 
 ---
 
