@@ -21,7 +21,7 @@ Earlier in my career I led product and platform engineering - designing services
 <td valign="top" width="40%">
 
 <div align="center">
-<br><br><br><br><br>
+<br><br>
 <a href="https://github.com/LordDashMe/github-contribution-stats/">
 <img src="https://github-contribution-stats.vercel.app/api/?username=levxn" alt="Contribution Stats">
 </a>
